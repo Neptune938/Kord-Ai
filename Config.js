@@ -1,14 +1,14 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
-    OWNER_NAME: 'Miracle', // desired name
-    BOT_NAME: "KORD", // desired name
+    OWNER_NUMBERS: "22393984430", // replace with your number
+    OWNER_NAME: '𝘽𝙡𝙪𝙚『[Shade]_』', // desired name
+    BOT_NAME: "KORD-Ai", // desired name
     VERSION: 'V1.0.0',
     SESSION_ID: '', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
     READ_ALL_MESSAGES: false,
-    PREFIX: [".", "/", "!"],
+    PREFIX: ["∆"],
     WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
     DEFAULT_TRANSLATION_LANG: "en",
     COMMAND_COOLDOWN_TIME_IN_MS: 2000,
